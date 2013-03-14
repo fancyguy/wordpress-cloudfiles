@@ -14,10 +14,10 @@
 	"autoload": {
 		"psr-0": {
 			"FancyGuy\\WordPress\\Plugin\\CloudFiles": "src/"
-		},
+		}
 	},
 	"extra": {
-		"installer-name": "fancyguy-cloudfiles",
+		"installer-name": "fancyguy-cloudfiles"
 	}
 }
 
