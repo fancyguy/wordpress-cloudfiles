@@ -1,6 +1,7 @@
 {
 	"name": "fancyguy/wordpress-cloudfiles",
 	"description": "Rackspace Could Files in WordPress",
+	"type": "wordpress-plugin",
 	"license": "BSD-3-Clause",
 	"authors": [
 		{
